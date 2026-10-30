@@ -8,3 +8,9 @@ pgvector>=0.2.5
 alembic>=1.13.0
 python-dotenv>=1.0.1
 httpx>=0.27.0
+python-multipart
+pypdf
+python-docx
+sentence-transformers
+torch
+anthropic
